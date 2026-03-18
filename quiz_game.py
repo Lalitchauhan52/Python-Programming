@@ -10,7 +10,7 @@ options = (("A. Au", "B. Ag", "C. Fe", "D. Cu"),
            ("A. Diamond", "B. Graphite", "C. Corundum", "D. Topaz"),
            ("A. Gravity", "B. Electromagnetism", "C. Strong Nuclear Force", "D. Weak Nuclear Force"))
 
-answers = ("Au", "Mars", "Mitochondria", "Diamond", "Gravity")
+answers = ("A", "A", "B", "A", "A")
 quesses = []
 score = 0
 questions_num = 0
