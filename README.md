@@ -30,15 +30,7 @@ Python-Programming/
 │
 ├── basics/               # Variables, data types, operators, I/O
 ├── control_flow/         # if-else, loops, break, continue, pass
-├── functions/            # Functions, recursion, lambda, *args/**kwargs
-├── data_structures/      # Lists, tuples, sets, dictionaries
-├── oop/                  # Classes, objects, inheritance, polymorphism
-├── file_handling/        # Reading & writing files, CSV, JSON
-├── modules/              # Built-in & custom modules
-├── error_handling/       # Exceptions, try-except, custom errors
-├── comprehensions/       # List, dict, and set comprehensions
-├── advanced/             # Decorators, generators, iterators
-└── projects/             # Mini projects and practical applications
+
 ```
 
 ---
@@ -49,14 +41,6 @@ Python-Programming/
 |---|-------|-------------|
 | 1 | **Python Basics** | Variables, data types, operators, user input/output |
 | 2 | **Control Flow** | Conditional statements, loops, iteration |
-| 3 | **Functions** | Defining functions, recursion, lambda expressions |
-| 4 | **Data Structures** | Lists, tuples, sets, dictionaries |
-| 5 | **Object-Oriented Programming** | Classes, inheritance, encapsulation, polymorphism |
-| 6 | **File Handling** | Read/write files, working with CSV and JSON |
-| 7 | **Modules & Packages** | Importing and creating modules |
-| 8 | **Exception Handling** | Try-except blocks, raising custom exceptions |
-| 9 | **Comprehensions** | List, dictionary, and set comprehensions |
-| 10 | **Advanced Concepts** | Decorators, generators, iterators, closures |
 
 ---
 
